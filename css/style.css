@@ -5,3 +5,25 @@ body {
 .bg-black {
     background-color: black;
 }
+
+/* home slider */
+.home-slider h2 {
+    font-size: 48px;
+}
+
+.home-slider .btn-outline-light {
+    font-size:28px;
+    line-height: normal;
+}
+/* home slider end */
+
+/* home section */
+.about-section p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.about-section h3 {
+    font-size: 40px;
+}
+/* about section end */
