@@ -33,3 +33,25 @@ body {
     font-size: 24px;
 }
 /* service section end */
+
+/* contact section */
+.contact-section {
+    background-image: url(../images/footer-bk.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.contact-box .form-group {
+    height: 50px;
+}
+
+textarea {
+    resize: none;
+}
+
+.address-box p {
+    font-size: 16px;
+    line-height: 22px;
+} 
+/* contact section end */
