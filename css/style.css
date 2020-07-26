@@ -37,7 +37,7 @@ body {
 /* contact section */
 .contact-section {
     background-image: url(../images/footer-bk.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 
 }
@@ -55,3 +55,15 @@ textarea {
     line-height: 22px;
 } 
 /* contact section end */
+
+@media(max-width:991px){
+    #focuzSlider .carousel-caption h2 {
+        font-size: 36px;
+    }
+}
+
+@media(max-width:767px){
+    header .navbar-brand img {
+        width: 200px;
+    }
+} 
