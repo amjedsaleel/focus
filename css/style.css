@@ -6,6 +6,10 @@ body {
     background-color: black;
 }
 
+.custom-font-h3 {
+    font-size: 40px;
+}
+
 /* home slider */
 .home-slider h2 {
     font-size: 48px;
@@ -22,8 +26,10 @@ body {
     font-size: 16px;
     line-height: 28px;
 }
-
-.about-section h3 {
-    font-size: 40px;
-}
 /* about section end */
+
+/* service section */
+.service-box h4 {
+    font-size: 24px;
+}
+/* service section end */
